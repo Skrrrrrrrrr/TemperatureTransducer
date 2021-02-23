@@ -72,23 +72,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PMFIQTHD
 
 [Document3]
-DocumentPath=..\SchLib\TemperatureTransducer.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MBXQLEQP
-
-[Document4]
 DocumentPath=betaV1.1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZNBCGRYK
 
-[Document5]
+[Document4]
 DocumentPath=betaV2.0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,8 +105,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CGDYWTAF
 
+[Document5]
+DocumentPath=1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AYMLBPHE
+
 [Document6]
-DocumentPath=..\SchLib\Standard-V0.0.SchLib
+DocumentPath=..\Altium_Librarires\Standard_Lib-V0.0\Standard-V0.0.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JASPEUAT
 
 [Document7]
-DocumentPath=..\STC_Protel_Altium_Lib\stcmcu_Altium20.1.10_Lib\stcmcu_altium20.1.10.SchLib
+DocumentPath=..\Altium_Librarires\STC_Protel_Altium_Lib\stcmcu_Altium20.1.10_Lib\stcmcu_altium20.1.10.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -154,10 +154,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WIEAUNYE
+DocumentUniqueId=
 
 [Document8]
-DocumentPath=1.SchDoc
+DocumentPath=..\Altium_Librarires\ADI_Lib\AD_Sch_Lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -171,7 +171,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AYMLBPHE
+DocumentUniqueId=SKCCZYQU
+
+[Document9]
+DocumentPath=..\Altium_Librarires\TI_Lib\TI_Sch_Lib.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WRJQZBKY
 
 [Configuration1]
 Name=Sources
