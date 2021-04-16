@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=5VIN Pin=C7-1
+Removed Pin From Net: NetName=5VIN- Pin=C7-2
+Removed Pin From Net: NetName=5VIN- Pin=C14-2
+Removed Pin From Net: NetName=5VIN- Pin=C16-2
+Removed Pin From Net: NetName=5VIN Pin=U3-1
+Removed Pin From Net: NetName=5VIN- Pin=U3-2
+Removed Member From Class: ClassName=betaV2.1 Member=C7
+Removed Member From Class: ClassName=betaV2.1 Member=C14
+Removed Member From Class: ClassName=betaV2.1 Member=C16
+Removed Member From Class: ClassName=betaV2.1 Member=U3
+Added Pin To Net: NetName=3.3AVDD Pin=C1-1
+Added Pin To Net: NetName=3.3AVDD Pin=C3-1
+Added Pin To Net: NetName=3.3AVDD Pin=C4-1
+Added Pin To Net: NetName=3.3AVDD Pin=C76-1
+Added Pin To Net: NetName=3.3AVDD Pin=C78-1
+Added Pin To Net: NetName=3.3AVDD Pin=R1-1
+Added Pin To Net: NetName=3.3AVDD Pin=R4-2
+Added Pin To Net: NetName=3.3AVDD Pin=U6-20
+Added Pin To Net: NetName=3.3AVDD Pin=U8-8
+Added Pin To Net: NetName=3.3AVDD Pin=U14-2
+Change Net Name : Old Net Name=3.3AVDD New Net Name=3.3VCC
+Added Room: Name=betaV2.1

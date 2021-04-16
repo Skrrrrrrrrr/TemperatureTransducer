@@ -1,0 +1,114 @@
+Change Component Footprint: Designator=D5 Old Footprint=sod123 New Footprint=sod323
+Change Component Footprint: Designator=D6 Old Footprint=sod123 New Footprint=sod323
+Change Component Footprint: Designator=D7 Old Footprint=sod123 New Footprint=sod323
+Change Component Footprint: Designator=D8 Old Footprint=sod123 New Footprint=sod323
+Change Component Comment : Designator=D5 Old Comment=TPSMF4L10A New Comment=SD12CT1
+Change Component Comment : Designator=D6 Old Comment=TPSMF4L10A New Comment=SD12CT1
+Change Component Comment : Designator=D7 Old Comment=TPSMF4L10A New Comment=SD12CT1
+Change Component Comment : Designator=D8 Old Comment=TPSMF4L10A New Comment=SD12CT1
+Change Component Designator: OldDesignator=D8 NewDesignator=D20
+Change Component Designator: OldDesignator=D9 NewDesignator=D21
+Added Component: Designator=D8(sod323)
+Added Component: Designator=D9(sod323)
+Added Component: Designator=D10(sod323)
+Added Component: Designator=D11(sod323)
+Added Component: Designator=D12(sod323)
+Added Component: Designator=D13(sod323)
+Added Component: Designator=D14(sod323)
+Added Component: Designator=D15(sod323)
+Added Component: Designator=D16(sod323)
+Added Component: Designator=D17(sod323)
+Added Component: Designator=D18(sod323)
+Added Component: Designator=D19(sod323)
+Added Component: Designator=D22(sod323)
+Added Component: Designator=D23(sod323)
+Added Component: Designator=D24(sod323)
+Added Component: Designator=D25(sod323)
+Added Component: Designator=D26(sod323)
+Added Component: Designator=D27(sod323)
+Added Component: Designator=D28(sod323)
+Added Component: Designator=D29(sod323)
+Added Component: Designator=D30(sod323)
+Added Component: Designator=D31(sod323)
+Added Component: Designator=D32(sod323)
+Added Component: Designator=D33(sod323)
+Added Component: Designator=D34(sod323)
+Added Component: Designator=D35(sod323)
+Added Pin To Net: NetName=5VIN- Pin=D8-1
+Added Pin To Net: NetName=AIN8 Pin=D8-2
+Added Pin To Net: NetName=AIN9 Pin=D9-1
+Added Pin To Net: NetName=AIN8 Pin=D9-2
+Added Pin To Net: NetName=5VIN- Pin=D10-1
+Added Pin To Net: NetName=AIN9 Pin=D10-2
+Added Pin To Net: NetName=5VIN- Pin=D11-1
+Added Pin To Net: NetName=AIN10 Pin=D11-2
+Added Pin To Net: NetName=AIN11 Pin=D12-1
+Added Pin To Net: NetName=AIN10 Pin=D12-2
+Added Pin To Net: NetName=5VIN- Pin=D13-1
+Added Pin To Net: NetName=AIN11 Pin=D13-2
+Added Pin To Net: NetName=5VIN- Pin=D14-1
+Added Pin To Net: NetName=AIN12 Pin=D14-2
+Added Pin To Net: NetName=AIN13 Pin=D15-1
+Added Pin To Net: NetName=AIN12 Pin=D15-2
+Added Pin To Net: NetName=5VIN- Pin=D16-1
+Added Pin To Net: NetName=AIN13 Pin=D16-2
+Added Pin To Net: NetName=5VIN- Pin=D17-1
+Added Pin To Net: NetName=AIN14 Pin=D17-2
+Added Pin To Net: NetName=AIN15 Pin=D18-1
+Added Pin To Net: NetName=AIN14 Pin=D18-2
+Added Pin To Net: NetName=5VIN- Pin=D19-1
+Added Pin To Net: NetName=AIN15 Pin=D19-2
+Added Pin To Net: NetName=5VIN- Pin=D22-1
+Added Pin To Net: NetName=REFIN1- Pin=D22-2
+Added Pin To Net: NetName=5VIN- Pin=D23-1
+Added Pin To Net: NetName=AIN4 Pin=D23-2
+Added Pin To Net: NetName=AIN5 Pin=D24-1
+Added Pin To Net: NetName=AIN4 Pin=D24-2
+Added Pin To Net: NetName=5VIN- Pin=D25-1
+Added Pin To Net: NetName=AIN5 Pin=D25-2
+Added Pin To Net: NetName=5VIN- Pin=D26-1
+Added Pin To Net: NetName=AIN7 Pin=D26-2
+Added Pin To Net: NetName=5VIN- Pin=D27-1
+Added Pin To Net: NetName=AIN6 Pin=D27-2
+Added Pin To Net: NetName=REFIN1+ Pin=D28-1
+Added Pin To Net: NetName=AIN6 Pin=D28-2
+Added Pin To Net: NetName=REFIN1- Pin=D29-1
+Added Pin To Net: NetName=REFIN1+ Pin=D29-2
+Added Pin To Net: NetName=5VIN- Pin=D30-1
+Added Pin To Net: NetName=AIN0 Pin=D30-2
+Added Pin To Net: NetName=AIN1 Pin=D31-1
+Added Pin To Net: NetName=AIN0 Pin=D31-2
+Added Pin To Net: NetName=5VIN- Pin=D32-1
+Added Pin To Net: NetName=AIN1 Pin=D32-2
+Added Pin To Net: NetName=5VIN- Pin=D33-1
+Added Pin To Net: NetName=AIN2 Pin=D33-2
+Added Pin To Net: NetName=AIN3 Pin=D34-1
+Added Pin To Net: NetName=AIN2 Pin=D34-2
+Added Pin To Net: NetName=5VIN- Pin=D35-1
+Added Pin To Net: NetName=AIN3 Pin=D35-2
+Added Member To Class: ClassName=betaV2.1 Member=Component D10 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D11 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D12 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D13 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D14 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D15 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D16 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D17 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D18 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D19 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D20 SD12CT1
+Added Member To Class: ClassName=betaV2.1 Member=Component D21 SS13
+Added Member To Class: ClassName=betaV2.1 Member=Component D22 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D23 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D24 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D25 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D26 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D27 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D28 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D29 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D30 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D31 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D32 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D33 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D34 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D35 TVS DIODE
