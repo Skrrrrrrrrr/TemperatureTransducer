@@ -1,0 +1,41 @@
+Change Component Footprint: Designator=C4 Old Footprint=CB New Footprint=0805c
+Change Component Comment : Designator=C4 Old Comment=T494B106M006AHAUTO New Comment=CC0805MRX7R9BB106
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CB"; UniqueID = "\ZMMZFKLA" ("\ZMMZFKLA")
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=betaV2.1 Member=Component R10 RC0805JR-0710KRL
+Added Member To Class: ClassName=betaV2.1 Member=Component R12 RC0805JR-07470RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R13 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R15 RC0805JR-07470RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R17 RC0805JR-07470RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R18 RC0805JR-0720RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R20 RC0805JR-0710KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R22 RC0805JR-07120RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R23 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R25 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R27 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R29 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R31 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R32 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R34 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R36 RC0805JR-0710KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R38 RC0805JR-0710KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R39 RC0805JR-000KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R41 RC0805JR-075600RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R43 RC0805JR-075600RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R45 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R47 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R48 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R50 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R52 RC0805JR-07470RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R54 Res2
+Added Member To Class: ClassName=betaV2.1 Member=Component R56 RC0805JR-07100ML
+Added Member To Class: ClassName=betaV2.1 Member=Component R58 RC0805JR-075600RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R60 RC0805JR-0768KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R61 3296W-1-102
+Added Member To Class: ClassName=betaV2.1 Member=Component R63 RC0805JR-072KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R65 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R67 RC0805JR-0710KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R69 RC0805JR-072KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R71 RC0805JR-073300RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R73 RC0805JR-07100ML
+Added Room: Name=betaV2.1

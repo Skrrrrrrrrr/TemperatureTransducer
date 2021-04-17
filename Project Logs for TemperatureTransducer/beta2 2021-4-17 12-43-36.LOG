@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=3.3VCC Pin=C74-1
+Removed Pin From Net: NetName=5VIN- Pin=C74-2
+Removed Pin From Net: NetName=3.3VCC Pin=C76-1
+Removed Pin From Net: NetName=5VIN- Pin=C76-2
+Removed Member From Class: ClassName=betaV2.1 Member=C74
+Removed Member From Class: ClassName=betaV2.1 Member=C76
+Added Member To Class: ClassName=betaV2.1 Member=Component R39 RC0805JR-000KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R41 RC0805JR-075600RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R43 RC0805JR-075600RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R45 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R47 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R48 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R50 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R52 RC0805JR-07470RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R54 Res2
+Added Member To Class: ClassName=betaV2.1 Member=Component R56 RC0805JR-07100ML
+Added Member To Class: ClassName=betaV2.1 Member=Component R58 RC0805JR-075600RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R60 RC0805JR-0768KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R62 RC0805JR-0768KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R63 RC0805JR-072KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R65 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R67 RC0805JR-0710KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R69 RC0805JR-072KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R71 RC0805JR-073300RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R73 RC0805JR-07100ML

@@ -1,0 +1,58 @@
+Change Component Comment : Designator=D19 Old Comment=SD12CT1 New Comment=SD15CT1
+Change Component Comment : Designator=U11 Old Comment=SNx5LBC184 New Comment=SN65LBC184
+Added Component: Designator=D29(sod323)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Thru-Hole; 2 Leads; 0.7 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DIODE-0.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=¡À15VGND Pin=D29-1
+Added Pin To Net: NetName=NetP7_1 Pin=D29-2
+Change Net Name : Old Net Name=NetP7_1 New Net Name=NetD29_2
+Added Member To Class: ClassName=betaV2.1 Member=Component D4 SD12CT1
+Added Member To Class: ClassName=betaV2.1 Member=Component D6 SD12CT1
+Added Member To Class: ClassName=betaV2.1 Member=Component D9 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D11 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D13 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D15 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D17 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D20 SS13
+Added Member To Class: ClassName=betaV2.1 Member=Component D22 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D24 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D26 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D28 TVS DIODE
+Added Member To Class: ClassName=betaV2.1 Member=Component D29 SD15CT1
+Added Member To Class: ClassName=betaV2.1 Member=Component Q1 SS8050
+Added Member To Class: ClassName=betaV2.1 Member=Component Q2 SS8550
+Added Member To Class: ClassName=betaV2.1 Member=Component R10 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R11 RC0805JR-07470RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R14 RC0805JR-07470RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R16 RC0805JR-07470RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R19 RC0805JR-0710KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R21 RC0805JR-07120RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R24 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R26 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R28 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R30 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R33 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R35 RC0805JR-0710KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R37 RC0805JR-0710KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R40 RC0805JR-075600RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R42 RC0805JR-075600RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R44 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R46 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R49 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R51 RC0805JR-07470RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R53 Res2
+Added Member To Class: ClassName=betaV2.1 Member=Component R55 RC0805JR-07100ML
+Added Member To Class: ClassName=betaV2.1 Member=Component R57 RC0805JR-075600RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R59 RC0805JR-0768KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R62 RC0805JR-072KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R64 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R66 RC0805JR-0710KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R68 RC0805JR-072KL
+Added Member To Class: ClassName=betaV2.1 Member=Component R70 RC0805JR-073300RL
+Added Member To Class: ClassName=betaV2.1 Member=Component R72 RC0805JR-07100ML
+Added Member To Class: ClassName=betaV2.1 Member=Component R73 3296W-1-104
+Added Room: Name=betaV2.1

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=5VDD Pin=C26-1
+Removed Pin From Net: NetName=SGND Pin=C26-2
+Removed Pin From Net: NetName=5VDD Pin=C27-1
+Removed Pin From Net: NetName=SGND Pin=C27-2
+Added Pin To Net: NetName=3.3VCC Pin=C26-1
+Added Pin To Net: NetName=5VIN- Pin=C26-2
+Added Pin To Net: NetName=3.3VCC Pin=C27-1
+Added Pin To Net: NetName=5VIN- Pin=C27-2

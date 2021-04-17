@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=SGND Pin=C15-2
+Removed Pin From Net: NetName=SGND Pin=C21-1
+Removed Pin From Net: NetName=SGND Pin=C22-2
+Removed Pin From Net: NetName=SGND Pin=C24-2
+Removed Pin From Net: NetName=SGND Pin=C25-2
+Removed Pin From Net: NetName=SGND Pin=C26-2
+Removed Pin From Net: NetName=SGND Pin=C27-2
+Removed Pin From Net: NetName=SGND Pin=C28-2
+Removed Pin From Net: NetName=SGND Pin=C29-2
+Removed Pin From Net: NetName=SGND Pin=C30-2
+Removed Pin From Net: NetName=SGND Pin=C31-2
+Removed Pin From Net: NetName=SGND Pin=C32-2
+Removed Pin From Net: NetName=SGND Pin=C45-2
+Removed Pin From Net: NetName=SGND Pin=C46-1
+Removed Pin From Net: NetName=SGND Pin=D6-1
+Removed Pin From Net: NetName=SGND Pin=R21-1
+Removed Pin From Net: NetName=SGND Pin=U2-2
+Removed Pin From Net: NetName=SGND Pin=U5-4
+Removed Pin From Net: NetName=SGND Pin=U7-5
+Removed Pin From Net: NetName=SGND Pin=U8-3
+Removed Pin From Net: NetName=SGND Pin=U9-5
+Removed Pin From Net: NetName=SGND Pin=U10-5
+Removed Pin From Net: NetName=SGND Pin=U11-5
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R41
+Change Component Designator: OldDesignator=R41 NewDesignator=R42
+Change Component Designator: OldDesignator=R42 NewDesignator=R43
+Change Component Designator: OldDesignator=R43 NewDesignator=R44
+Change Component Designator: OldDesignator=R44 NewDesignator=R45
+Change Component Designator: OldDesignator=R45 NewDesignator=R46
+Change Component Designator: OldDesignator=R46 NewDesignator=R47
+Change Component Designator: OldDesignator=R47 NewDesignator=R48
+Change Component Designator: OldDesignator=R48 NewDesignator=R49
+Change Component Designator: OldDesignator=R49 NewDesignator=R50
+Change Component Designator: OldDesignator=R50 NewDesignator=R51
+Change Component Designator: OldDesignator=R51 NewDesignator=R52
+Change Component Designator: OldDesignator=R52 NewDesignator=R53
+Change Component Designator: OldDesignator=R53 NewDesignator=R54
+Change Component Designator: OldDesignator=R54 NewDesignator=R55
+Change Component Designator: OldDesignator=R55 NewDesignator=R56
+Change Component Designator: OldDesignator=R56 NewDesignator=R57
+Change Component Designator: OldDesignator=R57 NewDesignator=R58
+Change Component Designator: OldDesignator=R58 NewDesignator=R59
+Change Component Designator: OldDesignator=R59 NewDesignator=R60
+Change Component Designator: OldDesignator=R60 NewDesignator=R62
+Change Component Designator: OldDesignator=R61 NewDesignator=R63
+Change Component Designator: OldDesignator=R62 NewDesignator=R61
+Change Component Designator: OldDesignator=R63 NewDesignator=R64
+Change Component Designator: OldDesignator=R64 NewDesignator=R65
+Change Component Designator: OldDesignator=R65 NewDesignator=R66
+Change Component Designator: OldDesignator=R66 NewDesignator=R67
+Change Component Designator: OldDesignator=R67 NewDesignator=R68
+Change Component Designator: OldDesignator=R68 NewDesignator=R69
+Change Component Designator: OldDesignator=R69 NewDesignator=R70
+Change Component Designator: OldDesignator=R70 NewDesignator=R71
+Change Component Designator: OldDesignator=R71 NewDesignator=R72
+Change Component Designator: OldDesignator=R72 NewDesignator=R73
+Change Component Designator: OldDesignator=R73 NewDesignator=R74
+Added Component: Designator=R39(0805R)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SGND Pin=R39-2
+Change Net Name : Old Net Name=NetR54_3 New Net Name=NetR55_3
+Change Net Name : Old Net Name=NetR55_1 New Net Name=NetR56_1
+Change Net Name : Old Net Name=NetR59_2 New Net Name=NetR60_2
+Change Net Name : Old Net Name=NetR62_3 New Net Name=NetR61_3
+Change Net Name : Old Net Name=NetR66_2 New Net Name=NetR67_2
+Change Net Name : Old Net Name=NetR68_2 New Net Name=NetR69_2
+Change Net Name : Old Net Name=NetR70_1 New Net Name=NetR71_1
+Change Net Name : Old Net Name=NetR72_2 New Net Name=NetR73_2
+Change Net Name : Old Net Name=SGND New Net Name=¡À15VGND
+Added Pin To Net: NetName=SGND Pin=C15-2
+Added Pin To Net: NetName=SGND Pin=C21-1
+Added Pin To Net: NetName=SGND Pin=C22-2
+Added Pin To Net: NetName=SGND Pin=C24-2
+Added Pin To Net: NetName=SGND Pin=C25-2
+Added Pin To Net: NetName=SGND Pin=C26-2
+Added Pin To Net: NetName=SGND Pin=C27-2
+Added Pin To Net: NetName=SGND Pin=C28-2
+Added Pin To Net: NetName=SGND Pin=C29-2
+Added Pin To Net: NetName=SGND Pin=C30-2
+Added Pin To Net: NetName=SGND Pin=C31-2
+Added Pin To Net: NetName=SGND Pin=C32-2
+Added Pin To Net: NetName=SGND Pin=C45-2
+Added Pin To Net: NetName=SGND Pin=C46-1
+Added Pin To Net: NetName=SGND Pin=D6-1
+Added Pin To Net: NetName=SGND Pin=R21-1
+Added Pin To Net: NetName=SGND Pin=R39-1
+Added Pin To Net: NetName=SGND Pin=U2-2
+Added Pin To Net: NetName=SGND Pin=U5-4
+Added Pin To Net: NetName=SGND Pin=U7-5
+Added Pin To Net: NetName=SGND Pin=U8-3
+Added Pin To Net: NetName=SGND Pin=U9-5
+Added Pin To Net: NetName=SGND Pin=U10-5
+Added Pin To Net: NetName=SGND Pin=U11-5
+Added Net: Name=SGND
+Added Member To Class: ClassName=betaV2.1 Member=Component R74 3296W-1-104
+Added Room: Name=betaV2.1
