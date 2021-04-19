@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=AIN0 Pin=U14-4
+Removed Pin From Net: NetName=AIN1 Pin=U14-5
+Removed Pin From Net: NetName=AIN2 Pin=U14-6
+Removed Pin From Net: NetName=AIN3 Pin=U14-7
+Removed Pin From Net: NetName=AIN4 Pin=U14-8
+Removed Pin From Net: NetName=AIN5 Pin=U14-9
+Removed Pin From Net: NetName=AIN6 Pin=U14-10
+Removed Pin From Net: NetName=AIN7 Pin=U14-11
+Removed Pin From Net: NetName=AIN8 Pin=U14-14
+Removed Pin From Net: NetName=AIN9 Pin=U14-15
+Removed Pin From Net: NetName=AIN10 Pin=U14-16
+Removed Pin From Net: NetName=AIN11 Pin=U14-17
+Removed Pin From Net: NetName=AIN12 Pin=U14-18
+Removed Pin From Net: NetName=AIN13 Pin=U14-19
+Removed Pin From Net: NetName=AIN14 Pin=U14-20
+Removed Pin From Net: NetName=AIN15 Pin=U14-21
+Change Component Comment : Designator=D7 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D8 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D9 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D10 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D11 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D12 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D13 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D14 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D15 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D16 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D17 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D18 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D21 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D22 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D23 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D24 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D25 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D26 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D27 Old Comment=TVS DIODE New Comment=SD03C
+Change Component Comment : Designator=D28 Old Comment=TVS DIODE New Comment=SD03C
+Added Pin To Net: NetName=AIN8 Pin=U14-4
+Added Pin To Net: NetName=AIN9 Pin=U14-5
+Added Pin To Net: NetName=AIN10 Pin=U14-6
+Added Pin To Net: NetName=AIN11 Pin=U14-7
+Added Pin To Net: NetName=AIN12 Pin=U14-8
+Added Pin To Net: NetName=AIN13 Pin=U14-9
+Added Pin To Net: NetName=AIN14 Pin=U14-10
+Added Pin To Net: NetName=AIN15 Pin=U14-11
+Added Pin To Net: NetName=AIN6 Pin=U14-14
+Added Pin To Net: NetName=AIN4 Pin=U14-15
+Added Pin To Net: NetName=AIN5 Pin=U14-16
+Added Pin To Net: NetName=AIN7 Pin=U14-17
+Added Pin To Net: NetName=AIN0 Pin=U14-18
+Added Pin To Net: NetName=AIN1 Pin=U14-19
+Added Pin To Net: NetName=AIN2 Pin=U14-20
+Added Pin To Net: NetName=AIN3 Pin=U14-21
+Change Net Name : Old Net Name=AIN0 New Net Name=AIN12
+Change Net Name : Old Net Name=AIN1 New Net Name=AIN13
+Change Net Name : Old Net Name=AIN2 New Net Name=AIN14
+Change Net Name : Old Net Name=AIN3 New Net Name=AIN15
+Change Net Name : Old Net Name=AIN4 New Net Name=AIN9
+Change Net Name : Old Net Name=AIN5 New Net Name=AIN10
+Change Net Name : Old Net Name=AIN6 New Net Name=AIN8
+Change Net Name : Old Net Name=AIN7 New Net Name=AIN11
+Change Net Name : Old Net Name=AIN8 New Net Name=AIN0
+Change Net Name : Old Net Name=AIN9 New Net Name=AIN1
+Change Net Name : Old Net Name=AIN10 New Net Name=AIN2
+Change Net Name : Old Net Name=AIN11 New Net Name=AIN3
+Change Net Name : Old Net Name=AIN12 New Net Name=AIN4
+Change Net Name : Old Net Name=AIN13 New Net Name=AIN5
+Change Net Name : Old Net Name=AIN14 New Net Name=AIN6
+Change Net Name : Old Net Name=AIN15 New Net Name=AIN7
