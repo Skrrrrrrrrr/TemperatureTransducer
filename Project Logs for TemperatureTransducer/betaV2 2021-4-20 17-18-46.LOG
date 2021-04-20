@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetD21_1 Pin=D22-1
+Removed Pin From Net: NetName=NetD21_1 Pin=D22-2
+Change Component Designator: OldDesignator=D23 NewDesignator=D22
+Change Component Designator: OldDesignator=D24 NewDesignator=D23
+Change Component Designator: OldDesignator=D25 NewDesignator=D24
+Change Component Designator: OldDesignator=D26 NewDesignator=D25
+Change Component Designator: OldDesignator=D27 NewDesignator=D26
+Change Component Designator: OldDesignator=D28 NewDesignator=D27
+Change Component Designator: OldDesignator=D29 NewDesignator=D28
+Change Component Designator: OldDesignator=D30 NewDesignator=D29
+Change Component Designator: OldDesignator=D31 NewDesignator=D30
+Change Component Designator: OldDesignator=D32 NewDesignator=D31
+Change Net Name : Old Net Name=NetD24_2 New Net Name=NetD23_2
+Change Net Name : Old Net Name=NetD26_2 New Net Name=NetD25_2
+Change Net Name : Old Net Name=NetD27_1 New Net Name=NetD26_1
+Change Net Name : Old Net Name=NetD29_2 New Net Name=NetD28_2
+Change Net Name : Old Net Name=NetD30_2 New Net Name=NetD29_2
+Change Net Name : Old Net Name=NetD31_2 New Net Name=NetD30_2
+Change Net Name : Old Net Name=NetD32_2 New Net Name=NetD31_2
+Added Member To Class: ClassName=betaV2.2 Member=Component C65 CC0805MRX7R9BB104
+Added Member To Class: ClassName=betaV2.2 Member=Component D7 SD03C
+Added Member To Class: ClassName=betaV2.2 Member=Component D9 SD03C
+Added Member To Class: ClassName=betaV2.2 Member=Component D14 SD03C
+Added Member To Class: ClassName=betaV2.2 Member=Component D18 SD12CT1
+Added Member To Class: ClassName=betaV2.2 Member=Component D20 SD03C
+Added Member To Class: ClassName=betaV2.2 Member=Component D23 SD03C
+Added Member To Class: ClassName=betaV2.2 Member=Component D24 SD03C
+Added Member To Class: ClassName=betaV2.2 Member=Component D26 SD03C
+Added Member To Class: ClassName=betaV2.2 Member=Component D28 SD03C
+Added Member To Class: ClassName=betaV2.2 Member=Component R42 RC0805JR-075600RL
+Added Member To Class: ClassName=betaV2.2 Member=Component R45 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.2 Member=Component R46 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.2 Member=Component R50 RC0805JR-071KL
+Added Member To Class: ClassName=betaV2.2 Member=Component R52 RC0805JR-071KL

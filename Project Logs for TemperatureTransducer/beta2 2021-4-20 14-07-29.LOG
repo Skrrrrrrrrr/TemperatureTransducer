@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=REFIN6_N New Net Name=CHN6_N
+Change Net Name : Old Net Name=REFIN6_P New Net Name=CHN6_P
+Change Net Name : Old Net Name=REFIN7_N New Net Name=CHN7_N
+Change Net Name : Old Net Name=REFIN7_P New Net Name=CHN7_P
+Added Differential Pair: Name=CHN6
+Added Differential Pair: Name=CHN7

@@ -1,0 +1,21 @@
+Change Net Name : Old Net Name=AIN2 New Net Name=CHN2_N
+Change Net Name : Old Net Name=AIN3 New Net Name=CHN2_P
+Change Net Name : Old Net Name=AIN4 New Net Name=CHN3_N
+Change Net Name : Old Net Name=AIN5 New Net Name=CHN3_P
+Change Net Name : Old Net Name=AIN6 New Net Name=CHN4_N
+Change Net Name : Old Net Name=AIN7 New Net Name=CHN4_P
+Change Net Name : Old Net Name=AIN9 New Net Name=REFIN5_P
+Change Net Name : Old Net Name=AIN10 New Net Name=REFIN5_N
+Change Net Name : Old Net Name=AIN12 New Net Name=REFIN6_P
+Change Net Name : Old Net Name=AIN13 New Net Name=REFIN6_N
+Change Net Name : Old Net Name=AIN14 New Net Name=REFIN7_P
+Change Net Name : Old Net Name=AIN15 New Net Name=REFIN7_N
+Change Net Name : Old Net Name=REFIN1+ New Net Name=REFIN1_P
+Change Net Name : Old Net Name=REFIN1- New Net Name=REFIN1_N
+Added Differential Pair: Name=CHN2
+Added Differential Pair: Name=CHN3
+Added Differential Pair: Name=CHN4
+Added Differential Pair: Name=REFIN1
+Added Differential Pair: Name=REFIN5
+Added Differential Pair: Name=REFIN6
+Added Differential Pair: Name=REFIN7
