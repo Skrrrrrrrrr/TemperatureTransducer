@@ -156,6 +156,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYBSEIGF
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for TemperatureTransducer\Design Rule Check - betaV2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
