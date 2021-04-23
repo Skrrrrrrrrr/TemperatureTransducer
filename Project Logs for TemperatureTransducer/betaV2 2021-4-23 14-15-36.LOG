@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetC2_1 New Net Name=XTAL_P
+Change Net Name : Old Net Name=NetC5_1 New Net Name=XTAL_N
+Added Differential Pair: Name=XTAL
+Added Room: Name=betaV2.2

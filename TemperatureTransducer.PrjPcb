@@ -140,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CGDYWTAF
 
 [Document7]
-DocumentPath=betaV2.1.PcbDoc
+DocumentPath=betaV2.2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
