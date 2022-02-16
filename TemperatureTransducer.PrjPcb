@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HKYYJHAP
 
 [Document6]
-DocumentPath=betaV2.2.SchDoc
+DocumentPath=betaV2.3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CGDYWTAF
 
 [Document7]
-DocumentPath=betaV2.2.PcbDoc
+DocumentPath=betaV2.3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
