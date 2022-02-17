@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R75
+Change Component Designator: OldDesignator=R? NewDesignator=R76
+Change Component Designator: OldDesignator=R? NewDesignator=R77
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR77_2
+Added Member To Class: ClassName=betaV2.3 Member=Component R75 RC0805JR-0710KL
+Added Member To Class: ClassName=betaV2.3 Member=Component R77 RC0805JR-071KL
